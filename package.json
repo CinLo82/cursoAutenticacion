@@ -1,0 +1,22 @@
+{
+  "name": "cursoautenticacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CinLo82/cursoAutenticacion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CinLo82/cursoAutenticacion/issues"
+  },
+  "homepage": "https://github.com/CinLo82/cursoAutenticacion#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
